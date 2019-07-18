@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002D85</color>
+    <color name="colorPrimaryDark">#8DA29F</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bAdapter">#2226C7</color>
+    <color name="textitem1">#373861</color>
+    <color name="back1">#D5DB23</color>
+    <color name="pink">#FE44B0</color>
+    <color name="indigo">#4b0082</color>
+</resources>

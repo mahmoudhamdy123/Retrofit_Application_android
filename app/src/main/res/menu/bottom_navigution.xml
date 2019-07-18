@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/recents"
+        android:title="Futuer"
+       />
+    <item
+        android:id="@+id/match"
+        android:title="Match"
+        android:icon="@drawable/calendar"
+        />
+    <item
+        android:id="@+id/nearby"
+        android:title="Futuer"
+        />
+</menu>
